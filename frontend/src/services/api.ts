@@ -10,7 +10,7 @@ import {
   AdminAnalyticsResponse
 } from '../types';
 
-const API_BASE = '/api';
+const API_BASE = 'https://rythumithra-backend.onrender.com/api';
 
 function getAuthHeader(): Record<string, string> {
   const token = localStorage.getItem('rythu_token');

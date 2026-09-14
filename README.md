@@ -113,7 +113,7 @@ The platform is purpose-built for low digital literacy farmers with large high-c
    ```
 4. Open your browser at:
    ```
-   http://127.0.0.1:5174/
+   http://127.0.0.1:5176/
    ```
 
 ---
@@ -231,7 +231,7 @@ SIH/
 During your presentation to judges, follow this seamless demo sequence:
 
 1. **Homepage & Language Switch**:
-   - Open `http://127.0.0.1:5174/`.
+   - Open `http://127.0.0.1:5176/`.
    - Show how the entire UI instantly switches to authentic **Telugu (తెలుగు)**.
 2. **Farmer Login**:
    - Click **"⚡ రైతు డెమో లాగిన్ (Farmer Demo)"** to log in instantly as Ramesh Babu (Guntur).
